@@ -28,8 +28,8 @@ To design and implement a calculator application using AWT controls provided by 
 
 # Files Included
 
-- "AWTCalculator.java" – Main calculator program.
-- "output.png" – Calculator application screenshot.
+- `AWTCalculator.java` – Main calculator program.
+- `output.png` – Calculator application screenshot.
 
 # Working Procedure
 

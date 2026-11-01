@@ -30,9 +30,9 @@ To write a Java program to animate a string on an Applet using the concept of mu
 
 # Files Included
 
-- "StringAnimationApplet.java" – Java animation program.
-- "index.html" – HTML file to load the Applet.
-- "output.png" – Animation output screenshot.
+- `StringAnimationApplet.java` – Java animation program.
+- `index.html` – HTML file to load the Applet.
+- `output.png` – Animation output screenshot.
 
 # Working Procedure
 

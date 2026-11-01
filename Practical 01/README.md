@@ -47,3 +47,5 @@ The program successfully multiplies two matrices and displays the resultant matr
 - Learn how to use two-dimensional arrays.
 - Perform user input operations using BufferedReader.
 - Develop logical thinking using nested loops.
+
+# Sample Output:

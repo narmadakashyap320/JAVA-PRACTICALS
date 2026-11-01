@@ -1,8 +1,12 @@
 # JAVA-PRACTICALS
 Name: Narmada Kashyap
+
 University: ITM University
+
 Course: B.Tech
+
 Semester: 3rd Semester
+
 # List of Practicals
  - Practical 01: Write a program for matrix multiplication. Use InputStreamReader and BufferedReader classes for Input/Output.
  - Practical 02: Write a program to animate a string on Applet. Use the concept of Multithreading.

@@ -1,0 +1,10 @@
+import java.rmi.*;
+
+public interface CalculatorRemote extends Remote {
+
+    int add(int a, int b) throws RemoteException;
+
+    int subtract(int a, int b) throws RemoteException;
+
+    int multiply(int a, int b) throws RemoteException;
+}

@@ -7,9 +7,9 @@ Course: B.Tech
 
 Semester: 3rd Semester
 
-|Sno.| Practicals| Content| Link|
+| Practicals|Topic| Content| Link|
 |------|-----------|----------|-------|
-|01 |Practical 01| Write a program for matrix multiplication. Use InputStreamReader and BufferedReader classes for Input/Output.
+|Practical 01| Matrix Multiplication|Two-dimensional arrays,Nested loops,Matrix multiplication,BufferedReader for user input,InputStreamReader for reading input|  |
  - Practical 02: Write a program to animate a string on Applet. Use the concept of Multithreading.
  - Practical 03: Write a program to design a calculator using the AWT controls provided in Java.
  - Practical 04: Write a program for Client-Server communication using either UDP or TCP protocols. Use ServerSocket and Socket classes.

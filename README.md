@@ -9,10 +9,7 @@ Semester: 3rd Semester
 
 | Practicals|Topic| Content| Link|
 |------|-----------|----------|-------|
-|Practical 01| Matrix Multiplication|2-D arrays,
-Nested loops,
-Matrix Multiplication,
-BufferedReader forus|  |
+|Practical 01| Matrix Multiplication|2-D arrays, Nested loops, Matrix Multiplication, BufferedReader forus|  |
  - Practical 02: Write a program to animate a string on Applet. Use the concept of Multithreading.
  - Practical 03: Write a program to design a calculator using the AWT controls provided in Java.
  - Practical 04: Write a program for Client-Server communication using either UDP or TCP protocols. Use ServerSocket and Socket classes.

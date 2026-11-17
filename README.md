@@ -79,7 +79,7 @@ The following table contains all 12 practicals included in this repository.
 | 08 | Store Form Data using JDBC | JDBC, MySQL, Connection, PreparedStatement, SQL INSERT | "Practical08" :  https://github.com/narmadakashyap320/JAVA-PRACTICALS/tree/main/Practical%2008 |
 | 09 | Student Registration Portal | JDBC, MySQL, GUI Forms, Database Connectivity, SQL INSERT | "Practical09" : https://github.com/narmadakashyap320/JAVA-PRACTICALS/tree/main/Practical%2009 |
 | 10 | JavaBean for Addition | JavaBeans, Encapsulation, Getter and Setter Methods, Properties | "Practical10" : https://github.com/narmadakashyap320/JAVA-PRACTICALS/tree/main/Practical%2010 |
-| 11 | Student CRUD Operations using JDBC | JDBC, MySQL, INSERT, SELECT, UPDATE, DELETE | "Practical11" (Practical11/) |
+| 11 | Student CRUD Operations using JDBC | JDBC, MySQL, INSERT, SELECT, UPDATE, DELETE | "Practical11" :  https://github.com/narmadakashyap320/JAVA-PRACTICALS/tree/main/Practical%2011 |
 
 Total Practicals:11
 

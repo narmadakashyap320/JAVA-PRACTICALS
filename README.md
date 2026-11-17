@@ -1,9 +1,13 @@
 ☕ Java Practical Portfolio
 
 Name: Narmada Kashyap
+
 Program: Bachelor of Technology (B.Tech CSE)
+
 Semester: 3rd Semester
+
 Subject: Object Oriented Programming with Java
+
 University: ITM University
 
 ---
@@ -46,16 +50,16 @@ The main objective of this repository is to document my practical learning, impr
 
 🛠️ Technologies Used
 
-Technology| Purpose
-Java| Programming Language
-AWT| GUI Development
-Swing| Desktop Application Development
-Java Applet| Applet-Based Applications
-JDBC| Database Connectivity
-MySQL| Database Management
-HTML| Applet Integration
-JavaBeans| Reusable Java Components
-RMI| Remote Method Invocation
+-Technology| Purpose
+-Java| Programming Language
+-AWT| GUI Development
+-Swing| Desktop Application Development
+-Java Applet| Applet-Based Applications
+-JDBC| Database Connectivity
+-MySQL| Database Management
+-HTML| Applet Integration
+-JavaBeans| Reusable Java Components
+-RMI| Remote Method Invocation
 
 ---
 
@@ -64,6 +68,7 @@ RMI| Remote Method Invocation
 The following table contains all 12 practicals included in this repository.
 
 |Practical No.| Practical Name| Concepts Used| Folder|
+|-------------||--------------||-------------||--------|
 |01| Matrix Multiplication| 2D Arrays, InputStreamReader, BufferedReader, Loops| "Practical01" (Practical01/)|
 |02| String Animation using Applet and Multithreading| Applet, Thread Class, Multithreading, Graphics| "Practical02" (Practical02/)|
 |03| Calculator using AWT| AWT, GUI Components, Event Handling, ActionListener| "Practical03" (Practical03/)|

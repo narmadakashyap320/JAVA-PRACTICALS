@@ -69,7 +69,7 @@ The following table contains all 12 practicals included in this repository.
 
 | Practical No. | Practical Name | Concepts Used | Folder |
 | ----------- | ------------- | ------------ | ------- |
-| 01 | Matrix Multiplication | 2D Arrays, InputStreamReader, BufferedReader, Loops | "Practical01" (Practical01/) |
+| 01 | Matrix Multiplication | 2D Arrays, InputStreamReader, BufferedReader, Loops | "Practical01" : https://github.com/narmadakashyap320/JAVA-PRACTICALS/tree/main/Practical%2001 |
 | 02 | String Animation using Applet and Multithreading | Applet, Thread Class, Multithreading, Graphics | "Practical02" (Practical02/) |
 | 03 | Calculator using AWT | AWT, GUI Components, Event Handling, ActionListener | "Practical03" (Practical03/) |
 | 04 | Client-Server Communication | Networking, TCP, ServerSocket, Socket, Client-Server Architecture | "Practical04" (Practical04/) |

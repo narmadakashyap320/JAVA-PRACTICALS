@@ -68,16 +68,11 @@ The main objective of this repository is to document my practical learning, impr
 The following table contains all 12 practicals included in this repository.
 
 | Practical No. | Practical Name | Concepts Used | Folder |
-
-|-------------||--------------||-------------||--------|
-
-|01| Matrix Multiplication| 2D Arrays, InputStreamReader, BufferedReader, Loops| "Practical01" (Practical01/)|
-
-|02| String Animation using Applet and Multithreading| Applet, Thread Class, Multithreading, Graphics| "Practical02" (Practical02/)|
-
-|03| Calculator using AWT| AWT, GUI Components, Event Handling, ActionListener| "Practical03" (Practical03/)|
-
-|04| Client-Server Communication| Networking, TCP, ServerSocket, Socket, Client-Server Architecture| "Practical04" (Practical04/)|
+| ----------- | ------------- | ------------ | ------- |
+| 01 | Matrix Multiplication | 2D Arrays, InputStreamReader, BufferedReader, Loops | "Practical01" (Practical01/) |
+| 02 | String Animation using Applet and Multithreading | Applet, Thread Class, Multithreading, Graphics | "Practical02" (Practical02/) |
+| 03 | Calculator using AWT | AWT, GUI Components, Event Handling, ActionListener | "Practical03" (Practical03/) |
+| 04 | Client-Server Communication | Networking, TCP, ServerSocket, Socket, Client-Server Architecture | "Practical04" (Practical04/) |
 
 |05| Simple Notepad Application| Swing, JFrame, JTextArea, JMenu, JMenuBar, Event Handling| "Practical05" (Practical05/)|
 

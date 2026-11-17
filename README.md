@@ -50,16 +50,16 @@ The main objective of this repository is to document my practical learning, impr
 
 🛠️ Technologies Used
 
--Technology : Purpose
--Java : Programming Language
--AWT : GUI Development
--Swing : Desktop Application Development
--Java Applet : Applet-Based Applications
--JDBC :  Database Connectivity
--MySQL : Database Management
--HTML :  Applet Integration
--JavaBeans :  Reusable Java Components
--RMI : Remote Method Invocation
+- Technology : Purpose
+- Java : Programming Language
+- AWT : GUI Development
+- Swing : Desktop Application Development
+- Java Applet : Applet-Based Applications
+- JDBC :  Database Connectivity
+- MySQL : Database Management
+- HTML :  Applet Integration
+- JavaBeans :  Reusable Java Components
+- RMI : Remote Method Invocation
 
 ---
 
@@ -67,7 +67,7 @@ The main objective of this repository is to document my practical learning, impr
 
 The following table contains all 12 practicals included in this repository.
 
-|Practical No.| Practical Name| Concepts Used| Folder|
+| Practical No. | Practical Name | Concepts Used | Folder |
 
 |-------------||--------------||-------------||--------|
 

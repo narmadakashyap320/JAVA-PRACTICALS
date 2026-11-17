@@ -72,7 +72,7 @@ The following table contains all 12 practicals included in this repository.
 | 01 | Matrix Multiplication | 2D Arrays, InputStreamReader, BufferedReader, Loops | "Practical01" : https://github.com/narmadakashyap320/JAVA-PRACTICALS/tree/main/Practical%2001 |
 | 02 | String Animation using Applet and Multithreading | Applet, Thread Class, Multithreading, Graphics | "Practical02" : https://github.com/narmadakashyap320/JAVA-PRACTICALS/tree/main/Practical%2002 |
 | 03 | Calculator using AWT | AWT, GUI Components, Event Handling, ActionListener | "Practical03" :  https://github.com/narmadakashyap320/JAVA-PRACTICALS/tree/main/Practical%2003 |
-| 04 | Client-Server Communication | Networking, TCP, ServerSocket, Socket, Client-Server Architecture | "Practical04" (Practical04/) |
+| 04 | Client-Server Communication | Networking, TCP, ServerSocket, Socket, Client-Server Architecture | "Practical04" : https://github.com/narmadakashyap320/JAVA-PRACTICALS/tree/main/Practical%2004 |
 | 05 | Simple Notepad Application | Swing, JFrame, JTextArea, JMenu, JMenuBar, Event Handling | "Practical05" (Practical05/) |
 | 06 | Remote Method Invocation (RMI) | RMI, Remote Interface, RemoteException, Remote Objects | "Practical06" (Practical06/) |
 | 07 | Name and Password Form | Applet, AWT Components, TextField, Labels, Buttons, Event Handling | "Practical07" (Practical07/) |

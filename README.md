@@ -77,7 +77,7 @@ The following table contains all 12 practicals included in this repository.
 | 06 | Remote Method Invocation (RMI) | RMI, Remote Interface, RemoteException, Remote Objects | "Practical06" : https://github.com/narmadakashyap320/JAVA-PRACTICALS/tree/main/Practical%2006 |
 | 07 | Name and Password Form | Applet, AWT Components, TextField, Labels, Buttons, Event Handling | "Practical07" : https://github.com/narmadakashyap320/JAVA-PRACTICALS/tree/main/Practical%2007 |
 | 08 | Store Form Data using JDBC | JDBC, MySQL, Connection, PreparedStatement, SQL INSERT | "Practical08" :  https://github.com/narmadakashyap320/JAVA-PRACTICALS/tree/main/Practical%2008 |
-| 09 | Student Registration Portal | JDBC, MySQL, GUI Forms, Database Connectivity, SQL INSERT | "Practical09" (Practical09/) |
+| 09 | Student Registration Portal | JDBC, MySQL, GUI Forms, Database Connectivity, SQL INSERT | "Practical09" : https://github.com/narmadakashyap320/JAVA-PRACTICALS/tree/main/Practical%2009 |
 | 10 | JavaBean for Addition | JavaBeans, Encapsulation, Getter and Setter Methods, Properties | "Practical10" (Practical10/) |
 | 11 | Student CRUD Operations using JDBC | JDBC, MySQL, INSERT, SELECT, UPDATE, DELETE | "Practical11" (Practical11/) |
 

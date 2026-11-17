@@ -73,20 +73,13 @@ The following table contains all 12 practicals included in this repository.
 | 02 | String Animation using Applet and Multithreading | Applet, Thread Class, Multithreading, Graphics | "Practical02" (Practical02/) |
 | 03 | Calculator using AWT | AWT, GUI Components, Event Handling, ActionListener | "Practical03" (Practical03/) |
 | 04 | Client-Server Communication | Networking, TCP, ServerSocket, Socket, Client-Server Architecture | "Practical04" (Practical04/) |
-
-|05| Simple Notepad Application| Swing, JFrame, JTextArea, JMenu, JMenuBar, Event Handling| "Practical05" (Practical05/)|
-
-|06| Remote Method Invocation (RMI)| RMI, Remote Interface, RemoteException, Remote Objects| "Practical06" (Practical06/)|
-
-|07| Name and Password Form| Applet, AWT Components, TextField, Labels, Buttons, Event Handling| "Practical07" (Practical07/)|
-
-|08| Store Form Data using JDBC| JDBC, MySQL, Connection, PreparedStatement, SQL INSERT| "Practical08" (Practical08/)|
-
-|09| Student Registration Portal| JDBC, MySQL, GUI Forms, Database Connectivity, SQL INSERT| "Practical09" (Practical09/)|
-
-|10| JavaBean for Addition| JavaBeans, Encapsulation, Getter and Setter Methods, Properties| "Practical10" (Practical10/)|
-
-|11| Student CRUD Operations using JDBC| JDBC, MySQL, INSERT, SELECT, UPDATE, DELETE| "Practical11" (Practical11/)|
+| 05 | Simple Notepad Application | Swing, JFrame, JTextArea, JMenu, JMenuBar, Event Handling | "Practical05" (Practical05/) |
+| 06 | Remote Method Invocation (RMI) | RMI, Remote Interface, RemoteException, Remote Objects | "Practical06" (Practical06/) |
+| 07 | Name and Password Form | Applet, AWT Components, TextField, Labels, Buttons, Event Handling | "Practical07" (Practical07/) |
+| 08 | Store Form Data using JDBC | JDBC, MySQL, Connection, PreparedStatement, SQL INSERT | "Practical08" (Practical08/) |
+| 09 | Student Registration Portal | JDBC, MySQL, GUI Forms, Database Connectivity, SQL INSERT | "Practical09" (Practical09/) |
+| 10 | JavaBean for Addition | JavaBeans, Encapsulation, Getter and Setter Methods, Properties | "Practical10" (Practical10/) |
+| 11 | Student CRUD Operations using JDBC | JDBC, MySQL, INSERT, SELECT, UPDATE, DELETE | "Practical11" (Practical11/) |
 
 Total Practicals:11
 
